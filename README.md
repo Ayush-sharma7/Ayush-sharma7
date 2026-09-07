@@ -1,104 +1,120 @@
 <div align="center">
 
-# Ayush Sharma
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:10b981&height=220&section=header&text=Ayush%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AIML)%20%7C%20GLA%20University&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Header Banner" />
 
-### B.Tech CSE (AIML) student building useful things with code
+<!-- Dynamic Typing SVG Subheader -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AIML)+Student+@+GLA+University;Building+with+Java%2C+Python+%26+C;Exploring+Machine+Learning+%26+Data+Science;Crafting+responsive+modern+web+applications;Growing+and+learning+one+commit+at+a+time" alt="Typing SVG" />
+  </a>
+</p>
 
-I enjoy turning ideas into small, working products while strengthening my foundations in software development, data structures, and machine learning.
+<!-- Social & Action Badges -->
+<p align="center">
+  <a href="https://ayush-sharmaa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ayush-sharma-10b9343a1" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ayush-sharma7?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-sharma7&label=Profile%20Views&color=10b981&style=flat-square" alt="Profile views" />
+</p>
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0F766E&center=true&vCenter=true&width=650&lines=Learning+DSA+%26+problem+solving;Exploring+web+development;Building+with+Python%2C+Java+%26+C;Growing+through+every+commit" alt="Typing SVG" />
-</p>
+---
+
+### 👨‍💻 &nbsp;About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AIML)** at **GLA University**
+- 💡 Passionate about **Data Structures & Algorithms**, **Machine Learning**, and **Modern Web Development**
+- 🚀 Enjoy turning ideas into functional, clean code and practical software products
+- 🌱 Continuously learning, experimenting with models, and shipping projects in public
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ayush-sharma-10b9343a1) or check out my [Portfolio](https://ayush-sharmaa.netlify.app/)
+
+---
+
+### 🛠️ &nbsp;Tech Stack & Tools
 
 <p align="center">
-  <a href="https://ayush-sharmaa.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,git,github,vscode,jupyter&perline=5&theme=dark" alt="Tech Stack Icons" />
+</p>
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Core Languages** | `C` · `Java` · `Python` · `JavaScript` · `HTML5` · `CSS3` |
+| **AI & Machine Learning** | `Supervised Learning` · `Model Evaluation` · `Jupyter Notebooks` |
+| **Tools & Workflow** | `Git` · `GitHub` · `VS Code` · `Responsive Design` · `Vercel` · `Netlify` |
+
+</div>
+
+---
+
+### 📊 &nbsp;GitHub Analytics & Streak
+
+<p align="center">
+  <a href="https://github.com/Ayush-sharma7">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ayush-sharma7&show_icons=true&theme=transparent&title_color=10B981&text_color=94A3B8&icon_color=10B981&border_color=1E293B" alt="GitHub Stats" />
   </a>
-  <a href="https://www.linkedin.com/in/ayush-sharma-10b9343a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://github.com/Ayush-sharma7">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ayush-sharma7&layout=compact&theme=transparent&title_color=10B981&text_color=94A3B8&border_color=1E293B" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-sharma7&label=Profile%20views&color=0F766E&style=flat" alt="Profile views" />
+  <a href="https://github.com/Ayush-sharma7">
+    <img src="https://streak-stats.demolab.com/?user=Ayush-sharma7&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B&border=1E293B" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-## About Me
-
-🎓 Studying **B.Tech CSE (AIML)** at **GLA University**<br>
-🌱 Currently focused on **DSA, web development, and AI**<br>
-🧩 I like learning by building and improving projects in public<br>
-📫 Find me on [LinkedIn](https://www.linkedin.com/in/ayush-sharma-10b9343a1) or visit my [portfolio](https://ayush-sharmaa.netlify.app/)
-
----
-
-## Tools I Use
+### 🌟 &nbsp;Featured Projects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode,jupyter" alt="Python, Java, C, HTML, CSS, JavaScript, Git, GitHub, VS Code, and Jupyter" />
+  <a href="https://github.com/Ayush-sharma7/Logistic-Regression-Model">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ayush-sharma7&repo=Logistic-Regression-Model&theme=transparent&title_color=10B981&text_color=94A3B8&icon_color=10B981&border_color=1E293B" alt="Logistic Regression Model" />
+  </a>
+  <a href="https://github.com/Ayush-sharma7/Portfolio-Generator-Project">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ayush-sharma7&repo=Portfolio-Generator-Project&theme=transparent&title_color=10B981&text_color=94A3B8&icon_color=10B981&border_color=1E293B" alt="Portfolio Generator Project" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Core:</strong> Python · Java · C &nbsp;&nbsp; <strong>Web:</strong> HTML · CSS · JavaScript &nbsp;&nbsp; <strong>Workflow:</strong> Git · GitHub · VS Code · Jupyter
+  <a href="https://github.com/Ayush-sharma7/Frontend-Grind-">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ayush-sharma7&repo=Frontend-Grind-&theme=transparent&title_color=10B981&text_color=94A3B8&icon_color=10B981&border_color=1E293B" alt="Frontend Grind" />
+  </a>
+  <a href="https://github.com/Ayush-sharma7/Java-with-Ayush">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ayush-sharma7&repo=Java-with-Ayush&theme=transparent&title_color=10B981&text_color=94A3B8&icon_color=10B981&border_color=1E293B" alt="Java with Ayush" />
+  </a>
 </p>
-
----
-
-## What I’m Building
-
-| Area | Current direction |
-| --- | --- |
-| Problem solving | DSA practice, algorithms, and fundamentals in C, Java, and Python |
-| Web development | Responsive interfaces and practical JavaScript projects |
-| Machine learning | Exploring data, models, and the fundamentals behind AI |
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-sharma7&theme=transparent&ring=0F766E&fire=F97316&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
-## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/Ayush-sharma7?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20all%20repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
-  <a href="https://github.com/Ayush-sharma7?tab=stars">
-    <img src="https://img.shields.io/badge/Explore%20my%20stars-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred repositories" />
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" />
   </a>
 </p>
 
 ---
 
-## Featured Projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:10b981&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 <p align="center">
-  <a href="https://github.com/Ayush-sharma7/Python-With-Ayush">
-    <img src="https://img.shields.io/badge/Python%20With%20Ayush-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="Python With Ayush repository" />
-  </a>
-  <a href="https://github.com/Ayush-sharma7/Machine-Learning-Fundamentals-">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Fundamentals-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning Fundamentals repository" />
-  </a>
+  <i>“Let’s build, learn, and improve one commit at a time.”</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ayush-sharma7/My-Portfolio">
-    <img src="https://img.shields.io/badge/My%20Portfolio-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="My Portfolio repository" />
-  </a>
-  <a href="https://github.com/Ayush-sharma7/Frontend-Grind-">
-    <img src="https://img.shields.io/badge/Frontend%20Grind-F97316?style=for-the-badge&logo=javascript&logoColor=white" alt="Frontend Grind repository" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for stopping by. Let’s build, learn, and improve one commit at a time.</i>
-</p>
+</div>
