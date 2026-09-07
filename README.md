@@ -58,23 +58,21 @@ I enjoy turning ideas into small, working products while strengthening my founda
 
 ---
 
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush-sharma7&show_icons=true&theme=transparent&title_color=0F766E&icon_color=0F766E&text_color=334155&hide_border=true&count_private=true" alt="Ayush's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-sharma7&layout=compact&theme=transparent&title_color=0F766E&text_color=334155&hide_border=true" alt="Top languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-sharma7&theme=transparent&ring=0F766E&fire=F97316&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## Activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-sharma7&bg_color=ffffff00&color=334155&line=0F766E&point=F97316&area=true&hide_border=true" alt="GitHub activity graph" />
+  <a href="https://github.com/Ayush-sharma7?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20all%20repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+  <a href="https://github.com/Ayush-sharma7?tab=stars">
+    <img src="https://img.shields.io/badge/Explore%20my%20stars-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred repositories" />
+  </a>
 </p>
 
 ---
@@ -83,19 +81,19 @@ I enjoy turning ideas into small, working products while strengthening my founda
 
 <p align="center">
   <a href="https://github.com/Ayush-sharma7/Python-With-Ayush">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-sharma7&repo=Python-With-Ayush&theme=transparent&title_color=0F766E&text_color=334155&icon_color=F97316&hide_border=true" alt="Python With Ayush repository" />
+    <img src="https://img.shields.io/badge/Python%20With%20Ayush-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="Python With Ayush repository" />
   </a>
   <a href="https://github.com/Ayush-sharma7/Machine-Learning-Fundamentals-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-sharma7&repo=Machine-Learning-Fundamentals-&theme=transparent&title_color=0F766E&text_color=334155&icon_color=F97316&hide_border=true" alt="Machine Learning Fundamentals repository" />
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Fundamentals-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning Fundamentals repository" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ayush-sharma7/Python-With-Ayush">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-sharma7&repo=My-Portfolio&theme=transparent&title_color=0F766E&text_color=334155&icon_color=F97316&hide_border=true" alt="My Portfolio repository" />
+  <a href="https://github.com/Ayush-sharma7/My-Portfolio">
+    <img src="https://img.shields.io/badge/My%20Portfolio-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="My Portfolio repository" />
   </a>
   <a href="https://github.com/Ayush-sharma7/Frontend-Grind-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-sharma7&repo=Frontend-Grind-&theme=transparent&title_color=0F766E&text_color=334155&icon_color=F97316&hide_border=true" alt="Frontend Grind repository" />
+    <img src="https://img.shields.io/badge/Frontend%20Grind-F97316?style=for-the-badge&logo=javascript&logoColor=white" alt="Frontend Grind repository" />
   </a>
 </p>
 
