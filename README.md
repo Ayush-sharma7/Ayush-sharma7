@@ -97,7 +97,7 @@
 
 <p align="center">
   <a href="https://github.com/Ayush-sharma7">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ayush-sharma7&show_icons=true&theme=transparent&title_color=10B981&text_color=94A3B8&icon_color=10B981&border_color=1E293B" alt="GitHub Stats" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ayush-sharma7&show_icons=true&theme=transparent&title_color=10B981&text_color=94A3B8&icon_color=10B981&border_color=1E293B&include_all_commits=true" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/Ayush-sharma7">
@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/Ayush-sharma7">
-    <img src="https://streak-stats.demolab.com/?user=Ayush-sharma7&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B&border=1E293B" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Ayush-sharma7&theme=transparent&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B&border=1E293B" alt="GitHub Streak" />
   </a>
 </p>
 
