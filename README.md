@@ -12,7 +12,7 @@
 
 <!-- Quick Action & Social Badges -->
 <p align="center">
-  <a href="https://ayush-sharmaa.netlify.app/" target="_blank">
+  <a href="https://portfolio7-ayush-sharmaa.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   &nbsp;
